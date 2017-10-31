@@ -1,5 +1,4 @@
 # belatrix-codeReview
-Belatrix Code Review
 
 1. Feedback to original source code: 
 
