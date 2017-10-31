@@ -7,7 +7,7 @@ Belatrix Code Review
 
 1.2. Private variable _initialized is not used and should be removed from code.
 
-1.3. SOLID principles are needed and used on source code rewriting, for instance the Single Responsibility principle.
+1.3. SOLID principles are needed and used on source code rewriting, for instance the class JobLogger has too much responsibility and was replaced by three new classes (Single Responsibility principle).
 
 1.4. CleanCode principles are needed and used on source code rewriting.
 
